@@ -1,1 +1,3 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LeoTKBR?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Background=DDDDDD&Title=000000&Border=000000&Ring=000000&Text=000000)](https://git.io/awesome-stats-card)
+
+{"commitsToMyRepositories":18,"lastFetch":"2025-01-20T02:50:50.0735061+00:00","login":"LeoTKBR","name":"LeoTK","pullRequests":30,"commits":97,"commitsToAnotherRepositories":79,"pullRequestsToAnotherRepositories":28,"issues":28,"createdRepositories":20,"directStars":5,"indirectStars":892,"contributedTo":9,"contributedToOwnRepositories":4,"contributedToNotOwnerRepositories":5,"followers":12}
